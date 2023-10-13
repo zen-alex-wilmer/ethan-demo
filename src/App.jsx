@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <h1>Ethan wants to learn to code</h1>
+      <h1>Ethan wants to learn to code and do other stuff</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           ethan's iq: {count}
